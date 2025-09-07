@@ -22,9 +22,9 @@ if (data.value && data.value.data) {
 <template>
   <section
     id="about"
-    class="py-16"
+    class="py-16 "
   >
-    <div class="container">
+    <div class="container ">
       <div class="flex flex-col-reverse items-center lg:grid lg:grid-cols-5 gap-24 lg:justify-evenly">
         <!-- image -->
         <div class=" lg:col-span-2 lg:flex justify-center">
