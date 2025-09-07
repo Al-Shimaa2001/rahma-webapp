@@ -17,7 +17,7 @@ if (data.value && data.value.data) {
 <template>
   <!-- ليه تستنى؟ الرعاية الصحية بقت أسهل!  -->
   <section
-    id="service"
+    id="about"
     class="py-16 bg-secondary/10"
   >
     <div class="container mx-auto px-4">

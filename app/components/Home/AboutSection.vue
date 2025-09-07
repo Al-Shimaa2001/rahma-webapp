@@ -21,7 +21,7 @@ if (data.value && data.value.data) {
 
 <template>
   <section
-    id="about"
+    id="service"
     class="py-16 "
   >
     <div class="container ">
